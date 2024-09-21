@@ -11,12 +11,13 @@
 *Anticipated graduation*: Spring 2025
 
 **Certificate in Web Development** | December 2023  
-- Designed visually appealing and effective websites.
-- Developed programs across various domains.
+-	Design visually appealing  and effective websites
+-	Write programs to accomplish tasks in a variety of domains
 
 **Certificate in Web and Computer Programming** | July 2024  
-- Developed foundational programming skills in Python, JavaScript, C#, HTML, and CSS.  
-- Applied modern web development frameworks in front-end development.
+-	Develop foundational programming skills using languages such as Python, JavaScript, C#, 
+HTML and CSS.
+-	Apply modern web development frameworks in front-end development.
 
 **Lamar State College - Orange** | Orange, TX  
 **Business Management** | 2002 - 2008  
@@ -32,10 +33,9 @@
 -	Collaborated with pharmacists and other pharmacy technicians to identify and solve any potential issues.
 -	Handled controlled substances with strict adherence to guidelines, including DEA regulations. 
 -	Managed records with accuracy and strict adherence to HIPPA regulations.
--	Handled financial responsibilities such as payroll management, budget management, inventory control, and revenue generation. 
--	Hired, trained, and mentored new pharmacy employees, ensuring understanding of processes, regulations, and best practices.
--	Designed and built a pharmacy inventory management software that greatly decreased time spent on keeping an accurate inventory for the pharmacy.  
-
+-	Managed financial tasks including payroll, inventory control, and revenue generation. 
+-	Hired, trained, and mentored employees, ensuring understanding of processes, regulations, and best practices.
+-	Designed and built inventory management software, reducing time spent and increasing accuracy by 75%.
   
 **Assistant Manager**  
 *Dollar General | Vidor, TX* | 2008 - 2010  
