@@ -1,57 +1,17 @@
 # Blake K. Torres
 
-[LinkedIn](https://www.linkedin.com/in/blake-torres-89b167174) | blaketorres2000@gmail.com | +1 (409) 719-8927
+I am a Software Development major at Brigham Young University-Idaho and am passionate about solving problems and learning new technologies. My studies have given me a solid foundation in coding, software development, web development, and how to use technology to solve real-world problems. I enjoy working on projects like building websites or exploring how to use data to make decisions. I am a team player who likes collaborating and looking for ways to grow and improve my skills.
 
----
+## About Me
+- I am currently learning many aspects of software development including frontend and backend programming.
+- I aim to build a long-term career in programming with a company where I can contribute to its growth and success for many years.
+- My focus is on continuously improving my skills and providing value through innovative solutions.
 
-## Education
+## Technologies and Tools
+- Proficient in: HTML, CSS, JavaScript, React, Next.js, Python, C#, .net, and SQL
 
-**Brigham Young University - Idaho** | Rexburg, ID  
-**Bachelor of Software Development** | 2020 - Present  
-*Anticipated graduation*: Spring 2025
+## Favorite Project
+- My favorite project so far would be the Inventory Management program that I built for a local pharmacy. It helps them keep an accurate account of their controlled inventory. It uses a secure database to store all the information on each medication. It allows them to add and manage drugs and get specific reports. This way, they will always know exactly how much medication they have at any given moment. It utilizes an API from their pharmacy software that automatically updates the numbers as they use medications.  
 
-**Certificate in Web Development** | December 2023  
--	Design visually appealing  and effective websites
--	Write programs to accomplish tasks in a variety of domains
-
-**Certificate in Web and Computer Programming** | July 2024  
--	Develop foundational programming skills using languages such as Python, JavaScript, C#, 
-HTML and CSS.
--	Apply modern web development frameworks in front-end development.
-
-**Lamar State College - Orange** | Orange, TX  
-**Business Management** | 2002 - 2008  
-- Completed courses in business management.
-
----
-
-## Experience
-
-**Pharmacy Technician / Pharmacy Manager**  
-*T & T Pharmacy | Vidor, TX* | March 2001 - Present  
--	Accurately filled prescriptions and ensured proper dosage and instructions.
--	Collaborated with pharmacists and other pharmacy technicians to identify and solve any potential issues.
--	Handled controlled substances with strict adherence to guidelines, including DEA regulations. 
--	Managed records with accuracy and strict adherence to HIPPA regulations.
--	Managed financial tasks including payroll, inventory control, and revenue generation. 
--	Hired, trained, and mentored employees, ensuring understanding of processes, regulations, and best practices.
--	Designed and built inventory management software, reducing time spent and increasing accuracy by 75%.
-  
-**Assistant Manager**  
-*Dollar General | Vidor, TX* | 2008 - 2010  
--	Managed day-to-day operations
--	Managed employee duties and schedules.
--	Created a new system for product stocking, decreasing time spent by more than 50%.
-
----
-
-## Skills
-
-- Database management and operations
-- Frontend development: HTML, CSS, JavaScript, React, Next.js
-- Backend programming: Python, C#, SQL
-- Web design and dynamic page creation
-- Software testing and debugging
-- Adapting to new technologies and innovative problem solving
-- Team collaboration and leadership
-- Employee management and task delegation
+## Let's Connect!
+- Here is my LinkedIn profile: www.linkedin.com/in/blake-torres-89b167174
