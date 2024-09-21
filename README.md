@@ -28,15 +28,20 @@
 
 **Pharmacy Technician / Pharmacy Manager**  
 *T & T Pharmacy | Vidor, TX* | March 2001 - Present  
-- Filled prescriptions with accuracy and ensured proper dosage instructions.
-- Collaborated with pharmacists to resolve issues efficiently.
-- Managed financial tasks including payroll, inventory control, and revenue generation.
-- Designed and implemented an inventory management system, reducing time spent on inventory management.
+-	Accurately filled prescriptions and ensured proper dosage and instructions.
+-	Collaborated with pharmacists and other pharmacy technicians to identify and solve any potential issues.
+-	Handled controlled substances with strict adherence to guidelines, including DEA regulations. 
+-	Managed records with accuracy and strict adherence to HIPPA regulations.
+-	Handled financial responsibilities such as payroll management, budget management, inventory control, and revenue generation. 
+-	Hired, trained, and mentored new pharmacy employees, ensuring understanding of processes, regulations, and best practices.
+-	Designed and built a pharmacy inventory management software that greatly decreased time spent on keeping an accurate inventory for the pharmacy.  
+
   
 **Assistant Manager**  
 *Dollar General | Vidor, TX* | 2008 - 2010  
-- Managed daily operations and employee scheduling.
-- Created a new stocking system that improved efficiency by over 50%.
+-	Managed day-to-day operations
+-	Managed employee duties and schedules.
+-	Created a new system for product stocking, decreasing time spent by more than 50%.
 
 ---
 
