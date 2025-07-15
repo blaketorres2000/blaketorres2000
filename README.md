@@ -1,6 +1,7 @@
 # Blake K. Torres
 ## Software Development Engineer
 
+## Professional Summary
 Resourceful and detail-oriented Software Development Engineer with hands-on experience designing and implementing automation systems for healthcare operations, regulatory compliance, and secure data governance. Recently earned a Bachelor’s degree in Software Development and am now transitioning from a successful career in pharmacy to a full-time role focused on technology-driven problem solving and innovation. Highly skilled in Python, C#, JavaScript, ETL workflows, and dashboard development, with working knowledge of cloud services (AWS, Azure), SDLC, and modern web frameworks. Proven track record of building secure, scalable solutions that improve efficiency and compliance at the intersection of healthcare and technology.
 
 ## Professional Experience
