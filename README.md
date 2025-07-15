@@ -6,12 +6,19 @@ Resourceful and detail-oriented Software Development Engineer with hands-on expe
 ### Pharmacy Manager/Technician, T&T Pharmacy, Vidor, TX | 2010 – Present
 
 •	Designed and developed a custom inventory management system integrated with pharmacy operations, automating pill counting, reducing manual errors, and improving inventory accuracy by 75%; backend built in Python with scripting support in JavaScript.
+
 •	Led the development of automation tools supporting DEA-regulated medication tracking and syncing with state and federal Prescription Monitoring Programs (PMP), following Agile framework for requirements gathering, deployment, and maintenance.
+
 •	Established a pharmacy data governance framework, including automated pipelines for daily prescription data reporting and auditing, ensuring compliance with DEA, HIPAA, and PMP regulations.
+
 •	Built and maintained an internal data visualization dashboard for pharmacy stakeholders (insurance claims, DEA compliance, and audits), enabling real-time insights into inventory, controlled substances, and regulatory data.
+
 •	Integrated pharmacy systems (e.g., Liberty Software) with third-party services to automate claims processing, billing, and insurance reconciliation, improving workflow efficiency and audit readiness.
+
 •	Developed automated finance and payroll dashboards to support tax reporting, bill payment tracking, and monthly financial performance using CI/CD principles.
+
 •	Managed biannual automated inventory audits, integrating testing routines for data consistency and generating audit-ready reports.
+
 •	Trained staff and junior technicians on technical systems and data handling practices, emphasizing secure data processing and validation protocols.
 
 ### Assistant Manager, Dollar General, Vidor, TX | 2008 – 2010
